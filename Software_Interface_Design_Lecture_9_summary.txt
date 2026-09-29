@@ -1,0 +1,223 @@
+--- Page 1 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+THIẾT KẾ GIAO DIỆN PHẦN MỀM
+Software Interface Design
+--- Page 2 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+Các vấn đề thiết kế:
+Trải nghiệm người dùng kịp thời, Tài liệu và Hỗ trợ người dùng
+--- Page 3 ---
+CONTENTS
+Thai Nguyen University of Information And Communication Technology
+I. The Timely User Experience
+II. Documentation and User Support
+--- Page 4 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+2. Models of System Response Time (SRT) Impacts
+--- Page 5 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+Think about the last time you used
+--- Page 6 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+What is the System Response Time (SRT)?
+--- Page 7 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+Quality of Service (QoS): A broader term covering not just
+--- Page 8 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+By the end of this section, students will be able to analyze
+--- Page 9 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Models of System Response Time (SRT) Impacts
+--- Page 10 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Models of System Response Time (SRT) Impacts
+--- Page 11 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Models of System Response Time (SRT) Impacts
+Network Impacts on SRT
+--- Page 12 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Models of System Response Time (SRT) Impacts
+The Speed / Accuracy Tradeoff
+--- Page 13 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Models of System Response Time (SRT) Impacts
+The Speed / Accuracy Tradeoff
+--- Page 14 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Models of System Response Time (SRT) Impacts
+The Speed / Accuracy Tradeoff
+--- Page 15 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+3. Expectations and Attitudes
+"How long will users wait?" (Too simple).
+--- Page 16 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+3. Expectations and Attitudes
+03 factors
+--- Page 17 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+3. Expectations and Attitudes
+Users may achieve rapid task performance, low error rates, and high satisfaction if
+--- Page 18 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+4. User Productivity and Variability in SRT
+Productivity is not just speed:
+--- Page 19 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+4. User Productivity and Variability in SRT
+The Problem of Variability:
+--- Page 20 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+4. User Productivity and Variability in SRT
+Design Strategy: Masking Delay.
+--- Page 21 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+4. User Productivity and Variability in SRT
+Design Strategy: Masking Delay
+--- Page 22 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+5. Frustrating Experiences
+Frustration goes beyond simple SRT!
+--- Page 23 ---
+I. The Timely User Experience
+Thai Nguyen University of Information And Communication Technology
+Task: Designing for Timeliness
+The scenario:
+--- Page 24 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+2. Shaping the Content of the Documentation
+--- Page 25 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+Think of the last time you were stuck using a new app or software. What did
+--- Page 26 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+The Shift in Documentation
+--- Page 27 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+2. Shaping the Content of the Documentation
+Organization and Writing Style
+--- Page 28 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+2. Shaping the Content of the Documentation
+Modern Content Strategy
+--- Page 29 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+2. Shaping the Content of the Documentation
+Writing for the Web
+--- Page 30 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+2. Shaping the Content of the Documentation
+Writing for the Web
+--- Page 31 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+2. Shaping the Content of the Documentation
+Writing for the Web
+--- Page 32 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+3. Accessing Documentation - User Behavior
+Accessing Documentation: The "Satisficing" User
+--- Page 33 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+3. Accessing Documentation - User Behavior
+Why Online Documentation Wins?
+--- Page 34 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+3. Accessing Documentation - User Behavior
+Types of Online Help
+--- Page 35 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+4. Reading from Displays versus Reading from Paper
+- Print technology has been refined for over 500 years.
+--- Page 36 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+4. Reading from Displays versus Reading from Paper
+How We Process Information Differently?
+--- Page 37 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+5. Online Tutorials and Animated Demonstrations
+Going Beyond Static Text
+--- Page 38 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+5. Online Tutorials and Animated Demonstrations
+Making Tutorials Effective
+--- Page 39 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+6. Online Communities and Other Avenues for User Support
+The Power of the Crowd
+--- Page 40 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+7. The Development Process
+Integrating Documentation into the Lifecycle
+--- Page 41 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+7. The Development Process
+Integrating Documentation into the Lifecycle
+--- Page 42 ---
+II. Documentation and User Support
+Thai Nguyen University of Information And Communication Technology
+TASK:
+Designing a Support Strategy for your project
+--- Page 43 ---
+Summary
+Thai Nguyen University of Information And Communication Technology
+The Timely User Experience
+▪ Response Time is Perception, Not Just a Number
+--- Page 44 ---
+Summary
+Thai Nguyen University of Information And Communication Technology
+Documentation and User Support :
+▪ Documentation has evolved: From static paper to dynamic,
+--- Page 45 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+Thank you!
+Thai Nguyen University of Information And Communication Technology

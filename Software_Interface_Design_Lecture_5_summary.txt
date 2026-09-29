@@ -1,0 +1,204 @@
+--- Page 1 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+THIẾT KẾ GIAO DIỆN PHẦN MỀM
+SOFTWARE INTERFACE DESIGN
+--- Page 2 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+QUY TRÌNH THIẾT KẾ UI: CÁC TRƯỜNG HỢP NGHIÊN CỨU THIẾT KẾ
+UI DESIGN PROCESS: DESIGN CASE STUDIES
+--- Page 3 ---
+CONTENTS
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+2. Case Study 1: Iterative Design Evaluation of Automated
+--- Page 4 ---
+Introduction
+Thai Nguyen University of Information And Communication Technology
+Case Stdies
+▪  Case Study is an in-depth analysis of a specific situation,
+--- Page 5 ---
+Introduction
+Thai Nguyen University of Information And Communication Technology
+Case Stdies
+▪Application:
+--- Page 6 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+What Are ATMs For?
+1. Common Services
+--- Page 7 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+What Are ATMs For?
+1. Common Services: Withdrawals, Deposits, Transfers,
+--- Page 8 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+Understanding ATM Interactions
+1. Inputs: Keypad, Card Reader, Touchscreen, Text
+--- Page 9 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+Analyzing the interaction design of ATMs
+1. Learnability: Is the interface intuitive and easy to understand? Are
+--- Page 10 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+A study in the user-interface process of developing ATMs with details
+on how to perform usability testing of ATMs.
+--- Page 11 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+Most of us have become familiar with ATMs of varying styles and
+sizes:
+--- Page 12 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+As for any device, the user interface for ATMs has evolved, from a
+more primitive electronic keypad to a magnificent, immersive
+--- Page 13 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+Designers could run a stopwatch as the user withdraws a specified
+amount at multiple ATMs,
+--- Page 14 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+Time to complete all tasks over a statistically significant set of ATMs
+Time expended for these ATM steps or "subtasks":
+--- Page 15 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+To complicate things, let's add an eye -tracker, key-logging tool to:
+record keyboard and/or touchscreen data entries,
+--- Page 16 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+Group activity:
+1. Analyze an ATM interface you have used. Point out its good and
+--- Page 17 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+Improving?
+--- Page 18 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+Improving?
+ATM receipts should be eliminated!
+--- Page 19 ---
+CS1: Iterative Design Evaluation of  ATMs
+Thai Nguyen University of Information And Communication Technology
+Improving?
+1. Use of USSD to ‘pre -withdraw’
+--- Page 20 ---
+CS2: Design Consistency at Apple Computer
+Thai Nguyen University of Information And Communication Technology
+Apple is renowned for its outstanding product design.
+Let’s explore what contributes to its success,
+--- Page 21 ---
+CS2: Design Consistency at Apple Computer
+Thai Nguyen University of Information And Communication Technology
+Case Study 2 examines the process and decisions reflected
+in an Apple document titled "From Desktop to iOS" (Apple,
+--- Page 22 ---
+CS2: Design Consistency at Apple Computer
+Thai Nguyen University of Information And Communication Technology
+Apple is not only known for its technology but also for its
+minimal, elegant, and consistent design philosophy .
+--- Page 23 ---
+CS2: Design Consistency at Apple Computer
+Thai Nguyen University of Information And Communication Technology
+What contributes to its consistency?“
+1. Apple's design philosophy: Minimalist, elegant, user -
+--- Page 24 ---
+CS2: Design Consistency at Apple Computer
+Thai Nguyen University of Information And Communication Technology
+What contributes to its consistency?
+Examples of apple’s devices :
+--- Page 25 ---
+CS2: Design Consistency at Apple Computer
+Thai Nguyen University of Information And Communication Technology
+What contributes to its consistency?
+Examples of apple’s apps :
+--- Page 26 ---
+CS2: Design Consistency at Apple Computer
+Thai Nguyen University of Information And Communication Technology
+Analyzing consistency in Apple’s design
+1. Colors: Apple uses neutral and muted colors.
+--- Page 27 ---
+CS2: Design Consistency at Apple Computer
+Thai Nguyen University of Information And Communication Technology
+Applying design principles:
+1. Learnability and memorability: Familiar interfaces help users easily
+--- Page 28 ---
+CS2: Design Consistency at Apple Computer
+Thai Nguyen University of Information And Communication Technology
+Personal activity:
+1. Explore a specific Apple product or app and identify
+--- Page 29 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+UI design isn't just about aesthetics; it's also
+data-driven. Let's see how Volvo has done this
+--- Page 30 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+•Volvo is known for its safety and commitment to user
+experience.
+--- Page 31 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+The following case study shows a successful collaboration in a large
+corporation utilizing user -interfaced development process methods to
+--- Page 32 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+Analyzing data-driven design at Volvo
+Let’s find out how Volvo uses data to improve their in -car
+--- Page 33 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+Analyzing data-driven design at Volvo
+Data Collection:  Volvo collects data from various sources,
+--- Page 34 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+Analyzing data-driven design at Volvo
+Data Analysis: Volvo uses data analysis tools to gain deeper
+--- Page 35 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+Analyzing data-driven design at Volvo
+Applying Data in Design : Based on data analysis, Volvo
+--- Page 36 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+Summary
+1. Analyzing data to understand users
+--- Page 37 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+Personal activity:
+1. Think about: "Could data be used to improve the UI of a
+--- Page 38 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+Many products across industries can benefit from data to
+improve user experience, efficiency, and innovation. Here are
+--- Page 39 ---
+CS3: Data-Driven Design at Volvo
+Thai Nguyen University of Information And Communication Technology
+Many products across industries can benefit from data to
+improve user experience, efficiency, and innovation. Here are
+--- Page 40 ---
+General Observations and Summary
+Thai Nguyen University of Information And Communication Technology
+1. UI design needs user -centric thinking
+2. Theories and principles guide us
+--- Page 41 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+Thank you!
+Thai Nguyen University of Information And Communication Technology

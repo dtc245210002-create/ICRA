@@ -1,0 +1,199 @@
+--- Page 1 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+THIẾT KẾ GIAO DIỆN PHẦN MỀM
+SOFTWARE INTERFACE DESIGN
+--- Page 2 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+QUY TRÌNH THIẾT KẾ UI: ĐÁNH GIÁ GIAO DIỆN
+UI DESIGN PROCESS: EVALUATING INTERFACE DESIGNS
+--- Page 3 ---
+CONTENTS
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+2. Expert Reviews
+--- Page 4 ---
+1. Introduction
+Thai Nguyen University of Information And Communication Technology
+▪Designers can become so entranced with their creations that
+they may fail to evaluate them adequately
+--- Page 5 ---
+1. Introduction
+Thai Nguyen University of Information And Communication Technology
+▪Usability evaluators must broaden their methods and be open to non-empirical
+methods, such as user sketches, consideration of design alternatives, and
+--- Page 6 ---
+1. Introduction
+•Major UI Evaluation Methods
+1. Expert Reviews
+2. Usability Testing
+--- Page 7 ---
+2. Expert Reviews
+•Evaluation by UI/UX experts, either internal or external.
+•Efficient for quick identification of usability issues.
+•Can be conducted at different design phases.
+--- Page 8 ---
+2. Expert Reviews
+•Types of Expert Reviews
+1. Heuristic Evaluation
+2. Guideline Review
+--- Page 9 ---
+2. Expert Reviews
+•Heuristic Evaluation:
+1. Evaluation of an interface against a set of usability heuristics.
+2. Commonly based on Jakob Nielsen's 10 usability heuristics .
+--- Page 10 ---
+2. Expert Reviews
+•Heuristic Evaluation: Jakob Nielsen's 10 usability heuristics .
+1: Visibility of System Status
+2: Match Between the System and the Real World
+--- Page 11 ---
+2. Expert Reviews
+•Heuristic Evaluation: Jakob Nielsen's 10 usability heuristics .
+Thai Nguyen University of Information And Communication Technology
+--- Page 12 ---
+2. Expert Reviews
+•How to conduct Heuristic Evaluation
+1. Define evaluation goals.
+2. Involve 3–5 UX experts.
+--- Page 13 ---
+2. Expert Reviews
+•Group activity:
+• Choose one website or mobile app:
+1. https://en.ictu.edu.vn/
+--- Page 14 ---
+2. Expert Reviews
+ADVANTAGES
+Fast and Cost-Effective: Quick to
+perform without requiring user
+--- Page 15 ---
+3. Usability Testing and Laboratories
+• Observing real users using a product to identify usability
+issues.
+• Helps understand how users interact with the UI.
+--- Page 16 ---
+3. Usability Testing and Laboratories
+•Different Types of Usability Tests
+• Paper Mockups
+• Discount Usability Testing
+--- Page 17 ---
+3. Usability Testing and Laboratories
+•Different Types of Usability Tests
+• Paper Mockups:  A simple, cost-effective technique for creating
+hand-drawn prototypes to visualize ideas and collect feedback early
+--- Page 18 ---
+3. Usability Testing and Laboratories
+•Different Types of Usability Tests
+• Field Tests: Observes how users interact with the product in their
+real-world environment to identify context -specific usability
+--- Page 19 ---
+3. Usability Testing and Laboratories
+•Usability Testing in a Lab
+• Preparation: Defining goals, recruiting
+participants, designing tasks.
+--- Page 20 ---
+4. Survey Instruments
+▪Used to collect user opinions, attitudes,
+and feedback.
+▪Cost-effective way to reach large
+--- Page 21 ---
+4. Survey Instruments
+▪ Types of Survey Questions
+▪ Open-ended questions: Allow for detailed, qualitative responses.
+▪ Closed-ended questions: Allow for quantitative and easily analyzed
+--- Page 22 ---
+4. Survey Instruments
+▪Designing an Effective Survey
+▪ Clear goals: Focus on specific usability aspects.
+▪ Concise wording: Avoid leading or ambiguous language.
+--- Page 23 ---
+4. Survey Instruments
+▪ Introduction to Questionnaire for User Interaction
+Satisfaction (QUIS)
+▪ A standardized questionnaire for evaluating user satisfaction.
+--- Page 24 ---
+4. Survey Instruments
+▪Examples:
+1. How satisfied are you with the system overall?
+▪ (1 = Terrible, 9 = Wonderful)
+--- Page 25 ---
+4. Survey Instruments
+▪Personal activity
+▪ Choose a specific feature (Searching, Accessibility, Payment, Order
+Tracking, Notifications … ) of a website/app.
+--- Page 26 ---
+5. Acceptance Tests
+• Beyond the Lab: Real -World Performance
+• Acceptance Tests:
+• Objective and measurable criteria set by the customer or manager.
+--- Page 27 ---
+5. Acceptance Tests
+•Key Elements of Acceptance Tests, List of Metrics:
+• Time for users to learn specific functions
+• Speed of task performance
+--- Page 28 ---
+5. Acceptance Tests
+•Example: Acceptance Test for a Food Shopping Website
+•Criteria Example:
+• "The participants will be 35 adults (25 -45 years old), native
+--- Page 29 ---
+6. Evaluation During Active Use
+•Continuous monitoring and feedback after product release.
+•Focuses on real-world usage and long -term user behavior.
+•Helps identify subtle issues that may not surface in lab
+--- Page 30 ---
+6. Evaluation During Active Use
+• Methods for Evaluation During Active Use
+1. Interviews and Focus Group Discussions
+2. Continuous User -Performance Data Logging
+--- Page 31 ---
+6. Evaluation During Active Use
+Interviews and Focus Group Discussions
+Understanding Users' Needs
+◦ One-on-one interviews for in -depth understanding.
+--- Page 32 ---
+6. Evaluation During Active Use
+Continuous User-Performance Data Logging
+◦ Collecting data on user actions, errors, and help
+requests.
+--- Page 33 ---
+6. Evaluation During Active Use
+6.3 Online/Telephone Consultants, Suggestion
+Boxes/Email, and Discussion Groups
+oOnline/Telephone consultants provide direct assistance to users.
+--- Page 34 ---
+6. Evaluation During Active Use
+•Group activity
+• Choose one method from "Evaluation During Active Use".
+• Brainstorm 2-3 ideas for UI improvements (five web/apps above)
+--- Page 35 ---
+7. Controlled Psychological Experiments
+• Controlled Psychological Experiments: An Overview
+• Using scientific methods to study user behavior and performance.
+• Involves manipulating independent variables and measuring
+--- Page 36 ---
+7. Controlled Psychological Experiments
+• Task in Conducting a Controlled Experiment
+1. Identify the Practical Problem and Theoretical Framework
+2. State a Testable Hypothesis
+--- Page 37 ---
+7. Controlled Psychological Experiments
+• Application in Human -Computer Interaction
+1. Fine-tuning the user interface based on solid empirical data.
+2. Comparing different designs and user experiences.
+--- Page 38 ---
+7. Controlled Psychological Experiments
+• Examples: Experimental Design in UI
+• Testing different menu structures, different devices for cursor control,
+different display layouts.
+--- Page 39 ---
+Summary
+•Review the main UI evaluation methods.
+•Importance of choosing the appropriate method based on needs and
+project scope.
+--- Page 40 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+Thank you!
+Thai Nguyen University of Information And Communication Technology

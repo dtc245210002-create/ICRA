@@ -1,0 +1,213 @@
+--- Page 1 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+THIẾT KẾ GIAO DIỆN PHẦN MỀM
+Software Interface Design
+--- Page 2 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+Các kiểu tương tác – Thao tác trực tiếp và môi trường nhập vai
+Interaction Styles: Direct Manipulation and Immersive Environments
+--- Page 3 ---
+CONTENTS
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+2. What Is Direct Manipulation?
+--- Page 4 ---
+1. Introduction
+Thai Nguyen University of Information And Communication Technology
+A Day Made of Glass 2: Expanded Corning
+--- Page 5 ---
+1. Introduction
+Thai Nguyen University of Information And Communication Technology
+▪Interactive systems can produce reactions that non -interactive
+systems are less likely to produce.
+--- Page 6 ---
+2. What Is Direct Manipulation?
+Thai Nguyen University of Information And Communication Technology
+▪Mention the origin of these interfaces in Xerox PARC and
+Shneiderman (1983).
+--- Page 7 ---
+2. What Is Direct Manipulation?
+Thai Nguyen University of Information And Communication Technology
+Example: Driving a car is an excellent example of direct manipulation:
++ real-time feedback
+--- Page 8 ---
+2. What Is Direct Manipulation?
+Thai Nguyen University of Information And Communication Technology
+•The three principles and attributes of direct manipulation
+1. Continuous representations of the objects and actions of interest with
+--- Page 9 ---
+2. What Is Direct Manipulation?
+Thai Nguyen University of Information And Communication Technology
+•The three principles and attributes of direct manipulation and BENEFITS
+1. Novices can learn basic functionality quickly , usually through a demonstration by a
+--- Page 10 ---
+Act 1: Direct Manipulation Deconstruction
+Analyze a System: Choose a highly interactive app (e.g.,
+Maps, Game, Photoshop).
+Evaluate Core Principles: Assess based on:
+--- Page 11 ---
+2. What Is Direct Manipulation?
+Thai Nguyen University of Information And Communication Technology
+•Problems with direct manipulation
+• Spatial or visual representations can be too spread out
+--- Page 12 ---
+3. Some Examples of Direct Manipulation
+Thai Nguyen University of Information And Communication Technology
+1. Driving a car is an excellent example of direct manipulation
++ real-time feedback
+--- Page 13 ---
+3. Some Examples of Direct Manipulation
+Thai Nguyen University of Information And Communication Technology
+•WYSIWYG word processing
+what you see is what you get
+--- Page 14 ---
+3. Some Examples of Direct Manipulation
+Thai Nguyen University of Information And Communication Technology
+Geographical systems including GPS (global positioning systems)
+--- Page 15 ---
+3. Some Examples of Direct Manipulation
+Thai Nguyen University of Information And Communication Technology
+•Video games:
+•A woman playing World of Warcraft.
+--- Page 16 ---
+4. The 2-D and 3-D Interfaces
+Thai Nguyen University of Information And Communication Technology
+•2D Interfaces: Simpler, limited in movement and interaction
+• Designed to simplify the real world.
+--- Page 17 ---
+4. The 2-D and 3-D Interfaces
+Thai Nguyen University of Information And Communication Technology
+•3D Interfaces: Aimed at the richness of the real world
+• Closer to the real world, but can cause difficulties for users
+--- Page 18 ---
+4. The 2-D and 3-D Interfaces
+Thai Nguyen University of Information And Communication Technology
+•Thoughts on 3D Interfaces
+• "Enhanced interfaces" can be better than the real world: Allowing
+--- Page 19 ---
+4. The 2-D and 3-D Interfaces
+Thai Nguyen University of Information And Communication Technology
+•Practical Applications of 3D Interfaces
+•Medical: Medical imaging, surgical simulations
+--- Page 20 ---
+4. The 2-D and 3-D Interfaces
+Thai Nguyen University of Information And Communication Technology
+•Considerations When Using 3D Interfaces
+• Magical" operations: change colors, shapes, duplicate objects, add
+--- Page 21 ---
+4. The 2-D and 3-D Interfaces
+Thai Nguyen University of Information And Communication Technology
+•2D chart and 3D chart: Which one is better?
+0
+--- Page 22 ---
+4. The 2-D and 3-D Interfaces
+Thai Nguyen University of Information And Communication Technology
+•2D chart and 3D chart: Which one is better?
+•Give your examples?
+--- Page 23 ---
+4. The 2-D and 3-D Interfaces
+Thai Nguyen University of Information And Communication Technology
+•Optimizing the Use of 3D Interfaces
+• Use 3D to highlight 2D interfaces: raised buttons, overlapping windows,
+--- Page 24 ---
+5. Teleoperation and Presence
+Thai Nguyen University of Information And Communication Technology
+•Teleoperation: Controlling physical processes in complex
+environments from a distance.
+--- Page 25 ---
+5. Teleoperation and Presence
+Thai Nguyen University of Information And Communication Technology
+•The Challenges of Remote Control
+• Time Delays: Due to the network and software (transmission delay and
+--- Page 26 ---
+5. Teleoperation and Presence
+Thai Nguyen University of Information And Communication Technology
+•Real-World Applications of Teleoperation
+• Medical: Telemedicine (Fig. 7.9) - remote healthcare, robot -assisted
+--- Page 27 ---
+5. Teleoperation and Presence
+Thai Nguyen University of Information And Communication Technology
+•Telepresence and Mobile Remote Presence (MRP) Systems
+• MRP (Mobile Remote Presence): Advanced video conferencing systems,
+--- Page 28 ---
+5. Teleoperation and Presence
+Thai Nguyen University of Information And Communication Technology
+•Telepresence and Mobile Remote Presence (MRP) Systems
+• ImmerseBoard:
+--- Page 29 ---
+5. Teleoperation and Presence
+Thai Nguyen University of Information And Communication Technology
+•Robotics - Part of Telepresence
+• Robots used in many fields (medical, office, education).
+--- Page 30 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+•VR (Virtual Reality): Creates a virtual environment, giving the
+user a "realistic" experience.
+--- Page 31 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+• Examples
+• AR: IKEA Place, phẫu thuật AR
+--- Page 32 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+•Exploring the World of Virtual Reality
+• VR: Overcomes physical space limitations.
+--- Page 33 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+•Enhancing Reality with AR
+•AR: Overlays virtual information on the real world.
+--- Page 34 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+•AR or VR? Differentiating the Two Technologies
+• AR: Interacts with the real world , overlaying virtual information.
+--- Page 35 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+•Which application is AR or VR?
+•Try it on your phone!
+--- Page 36 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+•Talk more AR. VR application which you know for?
+•Thiết kế 1 ứng dụng AR/VR
+--- Page 37 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+1. Ứng dụng AR cho giáo dục lịch sử
+Ý tưởng: Sinh viên dùng điện thoại hoặc kính AR để "xem" các
+--- Page 38 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+2. VR mô phỏng phòng mổ trong y tế
+Ý tưởng: Sinh viên y khoa đeo kính VR và tham gia ca phẫu
+--- Page 39 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+3. AR hỗ trợ mua sắm trực tuyến
+Ý tưởng: Người dùng bật camera để thử quần áo, giày dép,
+--- Page 40 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+4. Telepresence cho lớp học trực tuyến
+Ý tưởng: Giảng viên xuất hiện qua robot hoặc avatar 3D trong
+--- Page 41 ---
+6. Augmented and Virtual Reality
+Thai Nguyen University of Information And Communication Technology
+5. VR đào tạo kỹ năng mềm cho doanh nghiệp
+Ý tưởng: Nhân viên tham gia mô phỏng các tình huống như
+--- Page 42 ---
+Summary
+1. Direct Manipulation and Some Examples
+2. The 2-D and 3-D Interfaces
+3. Teleoperation and Presence
+--- Page 43 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+Thank you!
+Thai Nguyen University of Information And Communication Technology

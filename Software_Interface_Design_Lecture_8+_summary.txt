@@ -1,0 +1,204 @@
+--- Page 1 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+THIẾT KẾ GIAO DIỆN PHẦN MỀM
+Software Interface Design
+--- Page 2 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+Các vấn đề thiết kế:
+Nâng cao trải nghiệm người dùng
+--- Page 3 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+2. Display Design
+--- Page 4 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+1. Introduction
+Interface design is edging closer to match the art,
+--- Page 5 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Display Design
+Effective display designs must provide all the necessary data in the proper
+--- Page 6 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Display Design
+https://science.nasa.gov/climate -change/
+--- Page 7 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Display Design
+Samples of the 162 data -display guidelines from Smith and Mosier
+--- Page 8 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Display Design
+Field Layout Examples:
+--- Page 9 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Display Design
+Field Layout Examples:
+--- Page 10 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Display Design
+Empirical results
+--- Page 11 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Display Design
+Sequence of displays
+--- Page 12 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+2. Display Design
+Task:
+--- Page 13 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+3. View (Window) Management
+Why Window Management Matters?
+--- Page 14 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+3. View (Window) Management
+Coordinating Multiple Windows:
+--- Page 15 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+3. View (Window) Management
+--- Page 16 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+3. View (Window) Management
+Browsing Large Views
+--- Page 17 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+4. Animation
+Motion is a fundamental part of human perception. Our eyes
+--- Page 18 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+4. Animation
+i. Keeping User Oriented During Transition
+--- Page 19 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+4. Animation
+i. Keeping User Oriented During Transition
+--- Page 20 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+4. Animation
+ii. Indicating an Affordance
+--- Page 21 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+4. Animation
+iii. Indicating Background Activity
+--- Page 22 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+4. Animation
+iv. Storytelling & Explaining a Process
+--- Page 23 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+4. Animation
+v. Alerting
+--- Page 24 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+4. Animation
+Principles and Pitfalls of Animation
+--- Page 25 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+5. Web Page Design
+While many of the principles we've discussed apply
+--- Page 26 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+5. Web Page Design
+Common Mistakes in Web Design
+--- Page 27 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+5. Web Page Design
+Modern Trends in Web Design
+--- Page 28 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+6. Color
+Color is the first thing we notice, and it can make or break a
+--- Page 29 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+6. Color
+✓Soothe or strike the eye
+--- Page 30 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+6. Color
+Guidelines for Using Color
+--- Page 31 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+6. Color
+Task:
+--- Page 32 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+6. Non-anthropomorphic Design
+Should Your Computer Be Your Friend?
+--- Page 33 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+6. Non-anthropomorphic Design
+The Case Against Anthropomorphism
+--- Page 34 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+6. Non-anthropomorphic Design
+Nonanthropomorphic Guidelines
+--- Page 35 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+6. Non-anthropomorphic Design
+Task:
+--- Page 36 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+7. Error Messages
+The Critical Importance of Error Messages
+--- Page 37 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+7. Error Messages
+Guidelines for Effective Error Messages
+--- Page 38 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+7. Error Messages
+Rewrite the Error!
+--- Page 39 ---
+Advancing the User Experience
+Thai Nguyen University of Information And Communication Technology
+Bài tập:
+Design an interface for a simple application (e.g., food ordering, task
+--- Page 40 ---
+Summary
+Thai Nguyen University of Information And Communication Technology
+Display Design and Color define the fundamental visual canvas.
+Web Design applies these principles in the specific context of the
+--- Page 41 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+Thank you!
+Thai Nguyen University of Information And Communication Technology

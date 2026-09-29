@@ -1,0 +1,214 @@
+--- Page 1 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+THIẾT KẾ GIAO DIỆN PHẦN MỀM
+SOFTWARE INTERFACE DESIGN
+--- Page 2 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+QUY TRÌNH THIẾT KẾ UI: TỪ Ý TƯỞNG ĐẾN THỰC HIỆN
+UI DESIGN PROCESS: FROM IDEA TO EXECUTION
+--- Page 3 ---
+CONTENTS
+Thai Nguyen University of Information And Communication Technology
+❑ Organizational Design to Support Usability
+❑ Pillars of User Interface Design
+--- Page 4 ---
+Organizational Design to Support Usability
+•The Importance of UI/UX
+•Why Focus on User Interface and Usability?
+• In the first decades of computer software development,
+--- Page 5 ---
+Organizational Design to Support Usability
+•The Need for Managed Design Processes
+•Why do we need to manage the UI Design Process?
+• Designs should be based on careful observation of current users,
+--- Page 6 ---
+Organizational Design to Support Usability
+•Usability's Impact on Business Success
+•The Business Case for Usability
+• Even more compelling for e -commerce managers is evidence of
+--- Page 7 ---
+Organizational Design to Support Usability
+•How Organizations Are Changing
+• Corporate marketing and customer -assistance departments are
+becoming more aware of the importance of usability and are a
+--- Page 8 ---
+Organizational Design to Support Usability
+•Practical Actions to Promote Usability
+•What Can Organizations Do?
+• Create a Usability Lab
+--- Page 9 ---
+Organizational Design to Support Usability
+•Group activity:
+• Students list 3 specific, actionable ideas or simple steps an
+organization or a small business ( ICTU, Hospital, Bank, Mall, Local
+--- Page 10 ---
+Organizational Design to Support Usability
+•Group activity:
+• Students list 3 specific, actionable ideas or simple steps an
+organization or a small business ( ICTU, Hospital, Bank, Mall, Local
+--- Page 11 ---
+Pillars of User Interface Design
+•The Three Pillars of Successful User -Interface Development
+• Turn good ideas into successful systems
+Thai Nguyen University of Information And Communication Technology
+--- Page 12 ---
+Pillars of User Interface Design
+•Pillar 1: Guidelines Documents & Processes
+• Early in the design process, the user -interface architect should
+generate, or require other people to generate, a set of working
+--- Page 13 ---
+Pillars of User Interface Design
+•Pillar 1: Guidelines Documents & Processes
+•What Should Guidelines Cover?
+• Words, icons and graphics (size, color, capitalize)
+--- Page 14 ---
+Pillars of User Interface Design
+•Pillar 2: User-Interface Software Tools
+• Users might not realize implications of design decisions until they
+can actually see and use the system.
+--- Page 15 ---
+Pillars of User Interface Design
+•Pillar 2: User-Interface Software Tools
+• Prototyping: From Low to High Fidelity
+• Simple drawing or word -processing tools (simple prototypes)
+--- Page 16 ---
+Pillars of User Interface Design
+•Pillar 3 - Expert Reviews & Usability Testing
+• Previews to critics and extensive rehearsals are necessary to ensure
+a successful
+--- Page 17 ---
+Pillars of User Interface Design
+•Group acitvity:
+• Each group take notes and then generates a short (1 -2 sentence)
+practical example of how one pillar can be applied in a project to
+--- Page 18 ---
+Development Methodologies
+•Development Methodologies: Guiding the Design Process
+• Many software development projects fail to achieve their
+goals:"Some estimates of the failure rate put it as high as 60%"
+--- Page 19 ---
+Development Methodologies
+•The Logical User -Centered Interactive Design Methodology
+(LUCID)
+Thai Nguyen University of Information And Communication Technology
+--- Page 20 ---
+Development Methodologies
+•An iterative design process for interaction design
+Thai Nguyen University of Information And Communication Technology
+--- Page 21 ---
+Ethnographic Observation
+◦ Introduction to User Research
+◦ Understanding the User
+◦ Shift in focus from software to the user, from programmers to diverse
+--- Page 22 ---
+Ethnographic Observation
+▪Ethnographic Observation - What Is It?
+▪ Ethnographic Observation: Seeing Through Their Eyes
+▪ Since interface users form a unique culture, ethnographic methods for
+--- Page 23 ---
+Ethnographic Observation
+◦ Key Differences of Ethnographic Observation
+◦ How UI Ethnography Differs:
+◦ User-interface designers focus on changing/improving
+--- Page 24 ---
+Ethnographic Observation
+◦  The Ethnographic Process
+◦ Preparation:
+◦ Understand the organization, the systems, and goals. Set initial
+--- Page 25 ---
+Ethnographic Observation
+◦  The Ethnographic Process
+◦ Analysis:
+◦ Compile data (numerical, textual, multimedia), quantify data, reduce and
+--- Page 26 ---
+Ethnographic Observation
+◦ Participatory Design: Involving the Users
+◦ Many authors have urged participatory design strategies... more user
+involvement brings more accurate information about tasks and an
+--- Page 27 ---
+Participatory Design
+◦ Participatory Design: Pros and Cons
+◦ Benefits:
+◦ More accurate task information.
+--- Page 28 ---
+Participatory Design
+◦ Participatory Design: Pros and Cons
+◦ Challenges:
+◦ Can be costly, can prolong the implementation period
+--- Page 29 ---
+Participatory Design
+◦ Levels of User Participation
+◦ The levels of participation are becoming clearer; one taxonomy
+describes the roles of children in developing interfaces for children
+--- Page 30 ---
+Participatory Design
+◦ Mini acitivy:
+◦ Key compare Ethnographic observation and Participatory design
+◦ Ethnographic observation places the user in context , focusing on
+--- Page 31 ---
+Scenario Development
+◦ Scenario Development: Telling a Story
+◦ An early way to describe a novel system.
+◦ Act user out to highlight issues and interactions.
+--- Page 32 ---
+Scenario Development
+◦ The Value of Scenarios
+◦ Clarifies requirements from the user perspective.
+◦ Helps to understand complex interactions.
+--- Page 33 ---
+Scenario Development
+◦ Scenario Examples
+◦ K-16 User: A teacher using a digital library to enrich their
+lesson on the Industrial Revolution.
+--- Page 34 ---
+Scenario Development
+◦ Data to Enhance Scenarios
+◦ Usage logs provide valuable data.
+◦ Frequency tables of user actions.
+--- Page 35 ---
+Scenario Development
+◦ Activity: Scenario Writing
+◦ Each group must create a scenario for a user interacting with
+their prototype design of the food delivery app.
+--- Page 36 ---
+Social Impact Statements
+• Social Impact Statement: Considering the Bigger Picture
+• Focus on the wider impact of the design
+• Interactive systems often have a dramatic impact on large numbers of
+--- Page 37 ---
+Social Impact Statements
+• What to Include in a Social Impact Statement
+• Describe the new system and its benefits
+• Convey the high-level goals of the new system
+--- Page 38 ---
+Legal Issues
+•The Need for Legal Awareness
+• As user interfaces have become prominent, serious legal issues
+have emerged:
+--- Page 39 ---
+Legal Issues
+•Key Legal Considerations
+• Privacy: User data, data security, data breaches
+• Safety: User safety with physical and digital interfaces
+--- Page 40 ---
+Legal Issues
+•Group activity: The Ethical Pitch
+• Each group will now develop a short (3 -5 minutes) "Ethical Pitch" for
+their food delivery app. This pitch should be directed toward a
+--- Page 41 ---
+Legal Issues
+•Group activity: The Ethical Pitch
+• The pitch should include:
+• A quick recap of your design (prototype and the usage scenario).
+--- Page 42 ---
+Summary
+•Explored the shift from technology to user -centric design
+•Established the importance of usability for business success
+•Discussed how organizations are adapting and promoting usability.
+--- Page 43 ---
+THAI NGUYEN UNIVERSITY OF INFORMA TION AND COMMUNICA TION TECHNOLOGY
+FACULTY OF INFORMATION TECHNOLOGY
+Thank you!
+Thai Nguyen University of Information And Communication Technology
