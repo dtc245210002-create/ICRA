@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes pulse-conflict {
+  0%, 100% { border-color: #DC2626; background-color: rgba(220, 38, 38, 0.08); }
+  50% { border-color: #B91C1C; background-color: rgba(220, 38, 38, 0.22); }
+}
+
+@keyframes shake-subtle {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-3px); }
+  40%, 80% { transform: translateX(3px); }
+}
+
+.conflict-cell {
+  animation: pulse-conflict 1.2s infinite ease-in-out;
+}
+
+.shake-alert {
+  animation: shake-subtle 0.35s ease-in-out;
+}
+
+.ghost-timetable-block {
+  border: 2px dashed #2563EB;
+  background-color: rgba(37, 99, 235, 0.08);
+  pointer-events: none;
+}
+
+/* Custom minimal scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
